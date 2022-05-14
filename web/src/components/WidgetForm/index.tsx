@@ -1,7 +1,8 @@
 import { useState } from 'react'
 import { CloseButtom } from '../CloseButtom'
 
-import bugImageUrl from '../../assets/bug.svg'
+// import bugImageUrl from '../../assets/bug.svg'
+import bugImageUrl from '../../assets/bug-found.svg'
 import ideaImageUrl from '../../assets/idea.svg'
 import thoughtImageUrl from '../../assets/thought.svg'
 import { FeedbackTypeStep } from './Steps/FeedbackTypeStep'
